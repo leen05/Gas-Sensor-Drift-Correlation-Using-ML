@@ -1,5 +1,5 @@
 
-# 🌫️ Gas Sensor Drift Prediction using XGBoost
+# ⛽️ Gas Sensor Drift Prediction using XGBoost
 
 This project focuses on predicting gas concentrations from sensor data while addressing the issue of **sensor drift** — a common problem in long-term gas sensing systems. The model is trained on preprocessed batch-wise data and uses **XGBoost**, a powerful and efficient gradient boosting algorithm.
 
