@@ -28,6 +28,8 @@ This solution is useful in fields like environmental monitoring, industrial safe
 
 ---
 
+## Visualisation Through Streamlit  
+
 The Streamlit dashboard enables interactive exploration of sensor drift and model predictions. It features:
 
 - 📁 Dataset folder input to load batch-wise gas sensor data
