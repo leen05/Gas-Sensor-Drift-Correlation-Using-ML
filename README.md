@@ -28,7 +28,7 @@ This solution is useful in fields like environmental monitoring, industrial safe
 
 ---
 
-## Visualisation Through Streamlit  
+## 👩‍💻 Visualisation Through Streamlit  
 
 The Streamlit dashboard enables interactive exploration of sensor drift and model predictions. It features:
 
