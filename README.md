@@ -28,6 +28,18 @@ This solution is useful in fields like environmental monitoring, industrial safe
 
 ---
 
+The Streamlit dashboard enables interactive exploration of sensor drift and model predictions. It features:
+
+- 📁 Dataset folder input to load batch-wise gas sensor data
+- 📊 Pie chart of gas type distribution across batches
+- 📉 Histograms and box plots of sensor features
+- 🌡️ Heatmaps to visualize feature correlations
+- 📈 Scatter and residual plots for predicted vs actual gas concentrations
+- 🧮 Real-time evaluation using R², MAE, and RMSE
+- ⚙️ Fully responsive interface for monitoring and analysis
+
+--- 
+
 ## 🛠️ Tech Stack
 
 - Python 3.10+
